@@ -57,8 +57,9 @@ Entrenar un modelo capaz de identificar automáticamente la figura contenida en 
 ## ▶️ Cómo Ejecutar
 
 1. Clona este repositorio:
-   git clone https://github.com/MiguelNaranjo02/Multi-RNC
-   cd Multi-RNC
+   - git clone https://github.com/MiguelNaranjo02/Multi-RNC
+   - cd Multi-RNC
 2. Instala los requerimientos:
-   pip install -r requirements.txt
-3. Ejecuta los notebooks en Jupyter o Google Colab (preferiblemente Jupyter en local por temas de memoria RAM)
+   - pip install -r requirements.txt
+3.Cambia las rutas de las imagenes dependiendo de tu computador
+4. Ejecuta los notebooks en Jupyter o Google Colab (preferiblemente Jupyter en local por temas de memoria RAM)
