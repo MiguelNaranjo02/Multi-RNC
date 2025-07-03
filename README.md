@@ -1,10 +1,10 @@
 # 🧠 Análisis y Clasificación de Imágenes con Redes Neuronales
 Estudiantes:
 
-Miguel Angel Naranjo Joya - 20201020037
-Handersson Felipe Pacheco Espitia - 20202020053
-Juan David Martínez Monroy - 20201020043
-Laura Andrea Riobueno Rincón - 20201020040
+- Miguel Angel Naranjo Joya - 20201020037
+- Handersson Felipe Pacheco Espitia - 20202020053
+- Juan David Martínez Monroy - 20201020043
+- Laura Andrea Riobueno Rincón - 20201020040
 
 Este repositorio contiene el desarrollo de dos ejercicios principales utilizando redes neuronales y procesamiento de imágenes:
 
