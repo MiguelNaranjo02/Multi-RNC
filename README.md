@@ -61,6 +61,5 @@ Entrenar un modelo capaz de identificar automáticamente la figura contenida en 
    - cd Multi-RNC
 2. Instala los requerimientos:
    - pip install -r requirements.txt
-3. Descomprime los comprimidos con las imagenes
-4. Cambia las rutas de las imagenes dependiendo de tu computador
-5. Ejecuta los notebooks en Jupyter o Google Colab (preferiblemente Jupyter en local por temas de memoria RAM)
+3. Cambia las rutas de las imagenes dependiendo de tu computador y usa tus propias imagenes
+4. Ejecuta los notebooks en Jupyter o Google Colab (preferiblemente Jupyter en local por temas de memoria RAM)
